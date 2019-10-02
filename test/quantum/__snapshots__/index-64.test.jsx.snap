@@ -2195,7 +2195,6 @@ exports[`renders correctly 1`] = `
       >
         <div
           className="criteria-widget"
-          id="winOpen"
         >
           <header>
             <h3
@@ -2204,7 +2203,7 @@ exports[`renders correctly 1`] = `
               <a
                 className="graph-title-link"
               >
-                Window open
+                Window Open
               </a>
             </h3>
           </header>
@@ -2227,7 +2226,6 @@ exports[`renders correctly 1`] = `
       >
         <div
           className="criteria-widget"
-          id="tabSwitch"
         >
           <header>
             <h3
@@ -2259,7 +2257,6 @@ exports[`renders correctly 1`] = `
       >
         <div
           className="criteria-widget"
-          id="tabClose"
         >
           <header>
             <h3
@@ -2291,7 +2288,6 @@ exports[`renders correctly 1`] = `
       >
         <div
           className="criteria-widget"
-          id="firstPaint"
         >
           <header>
             <h3
@@ -2323,7 +2319,6 @@ exports[`renders correctly 1`] = `
       >
         <div
           className="criteria-widget"
-          id="sessionRestoreWindow"
         >
           <header>
             <h3
@@ -2355,7 +2350,6 @@ exports[`renders correctly 1`] = `
       >
         <div
           className="criteria-widget"
-          id="sessionRestoreStartupInit"
         >
           <header>
             <h3
@@ -2387,7 +2381,6 @@ exports[`renders correctly 1`] = `
       >
         <div
           className="criteria-widget"
-          id="sessionRestoreStartupOnload"
         >
           <header>
             <h3
@@ -2419,7 +2412,6 @@ exports[`renders correctly 1`] = `
       >
         <div
           className="criteria-widget"
-          id="tabSwitchUpdate"
         >
           <header>
             <h3
@@ -2451,7 +2443,6 @@ exports[`renders correctly 1`] = `
       >
         <div
           className="criteria-widget"
-          id="gcAnimation"
         >
           <header>
             <h3
@@ -2483,7 +2474,6 @@ exports[`renders correctly 1`] = `
       >
         <div
           className="criteria-widget"
-          id="gpuProcessInit"
         >
           <header>
             <h3
@@ -2515,7 +2505,6 @@ exports[`renders correctly 1`] = `
       >
         <div
           className="criteria-widget"
-          id="gpuProcessLaunch"
         >
           <header>
             <h3
@@ -2547,7 +2536,6 @@ exports[`renders correctly 1`] = `
       >
         <div
           className="criteria-widget"
-          id="inputEventCoalesced"
         >
           <header>
             <h3
@@ -2579,7 +2567,6 @@ exports[`renders correctly 1`] = `
       >
         <div
           className="criteria-widget"
-          id="networkCacheHit"
         >
           <header>
             <h3
@@ -2611,7 +2598,6 @@ exports[`renders correctly 1`] = `
       >
         <div
           className="criteria-widget"
-          id="networkCacheMiss"
         >
           <header>
             <h3
@@ -2643,7 +2629,6 @@ exports[`renders correctly 1`] = `
       >
         <div
           className="criteria-widget"
-          id="placesAutocomplete"
         >
           <header>
             <h3
@@ -2675,7 +2660,6 @@ exports[`renders correctly 1`] = `
       >
         <div
           className="criteria-widget"
-          id="searchServiceInit"
         >
           <header>
             <h3
@@ -2707,7 +2691,6 @@ exports[`renders correctly 1`] = `
       >
         <div
           className="criteria-widget"
-          id="timeToDomComplete"
         >
           <header>
             <h3
@@ -2739,7 +2722,6 @@ exports[`renders correctly 1`] = `
       >
         <div
           className="criteria-widget"
-          id="timeToDomInteractive"
         >
           <header>
             <h3
@@ -2771,7 +2753,6 @@ exports[`renders correctly 1`] = `
       >
         <div
           className="criteria-widget"
-          id="timeToDomLoading"
         >
           <header>
             <h3
@@ -2803,7 +2784,6 @@ exports[`renders correctly 1`] = `
       >
         <div
           className="criteria-widget"
-          id="timeToFirstInteraction"
         >
           <header>
             <h3
@@ -2835,7 +2815,6 @@ exports[`renders correctly 1`] = `
       >
         <div
           className="criteria-widget"
-          id="timeToNonBlankPaint"
         >
           <header>
             <h3
@@ -2867,7 +2846,6 @@ exports[`renders correctly 1`] = `
       >
         <div
           className="criteria-widget"
-          id="timeToResponseStart"
         >
           <header>
             <h3
@@ -2899,7 +2877,6 @@ exports[`renders correctly 1`] = `
       >
         <div
           className="criteria-widget"
-          id="webextBackgroundPageLoad"
         >
           <header>
             <h3
@@ -2931,7 +2908,6 @@ exports[`renders correctly 1`] = `
       >
         <div
           className="criteria-widget"
-          id="webextContentScriptInjection"
         >
           <header>
             <h3
@@ -2963,7 +2939,6 @@ exports[`renders correctly 1`] = `
       >
         <div
           className="criteria-widget"
-          id="webextExtensionStartup"
         >
           <header>
             <h3
@@ -2995,7 +2970,6 @@ exports[`renders correctly 1`] = `
       >
         <div
           className="criteria-widget"
-          id="timeToLoadEventEnd"
         >
           <header>
             <h3
@@ -3027,7 +3001,6 @@ exports[`renders correctly 1`] = `
       >
         <div
           className="criteria-widget"
-          id="timeToDomContentLoadedEnd"
         >
           <header>
             <h3
@@ -3059,7 +3032,6 @@ exports[`renders correctly 1`] = `
       >
         <div
           className="criteria-widget"
-          id="contentPaintTime"
         >
           <header>
             <h3
@@ -3091,7 +3063,6 @@ exports[`renders correctly 1`] = `
       >
         <div
           className="criteria-widget"
-          id="pageLoad"
         >
           <header>
             <h3
@@ -3123,7 +3094,6 @@ exports[`renders correctly 1`] = `
       >
         <div
           className="criteria-widget"
-          id="simpleSessionRestored"
         >
           <header>
             <h3
@@ -3155,7 +3125,6 @@ exports[`renders correctly 1`] = `
       >
         <div
           className="criteria-widget"
-          id="scalarFirstPaint"
         >
           <header>
             <h3
@@ -3187,7 +3156,6 @@ exports[`renders correctly 1`] = `
       >
         <div
           className="criteria-widget"
-          id="timeToFirstScroll"
         >
           <header>
             <h3
